@@ -1,0 +1,10 @@
+output/Projected_Results.pdf
+output/Projected_league_table.pdf
+output/hardcopy_football_analysis.pdf
+data/E0_012014_2.csv
+data/E0_012014_3.csv
+output/Analysis_confusion_matrix.pdf
+output/Analysis_matrix.pdf
+output/*.out
+documents/*.pdf
+models/*.Rdata
